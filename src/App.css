@@ -28,6 +28,29 @@
   color: #61dafb;
 }
 
+
+#bkgndImg{
+  /* background-image: url(../img/cardboard.png); */
+  /* https://www.freepik.com/free-vector/pastel-blue-banner-background_7131575.htm#query=blue&position=25  */
+  background-image: url(./assets/images/blueBackground.jpg);
+  background-size: 100% 100%;
+        }
+
+
+img {
+      float: left; 
+      margin: 5px;
+    }
+
+/* p  {
+    text-align: justify;
+    font-size: 25px;
+   } */
+
+
+
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
