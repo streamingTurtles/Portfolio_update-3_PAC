@@ -31,7 +31,7 @@ function AboutContent() {
                  </h5>
 
                  
-                 <img src={ST_BusinessCard}  alt="my stw business card" class="img-thumbnail" width="400" height="250"/>
+                 <img src={ST_BusinessCard}  alt="my stw business card" class="img-thumbnail" width="450" height="300"/>
                  
                  
    
@@ -45,12 +45,30 @@ function AboutContent() {
               
 
 
+                
+{/* centering the links using object notation for jsx - note: exact syntax is needed */}
+{/* https://www.w3schools.com/react/react_css.asp */}
+<div style={{paddingLeft: "80px"}}>
 
+{/* <!-- Resume  --> */}
+<a href="https://streamingturtles.github.io/Portfolio_update_PAC/Peter_A_Cardillo_01-12-2021.pdf"><button type="button" class="fa fa-file-pdf-o" style={{fontSize: "35px"}}></button></a>  
+
+{/* <!-- linkedIn Profile  --> */}
+<a href="https://www.linkedin.com/in/peter-cardillo-1b12b85/"><button type="button" class="fa fa-linkedin" style={{fontSize: "35px"}}></button></a>
+{/* <!-- gitHub Profile  --> */}
+<a href="https://github.com/streamingTurtles?tab=overview&from=2020-12-01&to=2020-12-31"><button type="button" class="fa fa-github" style={{fontSize: "35px"}}></button></a>
+{/* <!-- twitter  --> */}
+<a href="https://twitter.com/streamingTurtle"><button type="button" class="fa fa-twitter" style={{fontSize: "35px"}}></button></a>       
+
+</div>
 
 
 
 
             </div>
+
+
+           
 
 
        
