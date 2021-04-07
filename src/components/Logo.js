@@ -3,9 +3,9 @@ import { Link } from "react-router-dom";
 
 function Logo() {
     return (
-        <div>
+        <div class="fas fa-yin-yang" style={{fontSize: "25px"}}>
             <Link to="/" >
-                Peter A Cardillo
+                 Peter A Cardillo
                 </Link>
 
         </div>
@@ -14,3 +14,4 @@ function Logo() {
 
 
 export default Logo;
+
