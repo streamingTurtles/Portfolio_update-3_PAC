@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio_update-3_PAC/static/css/main.c51d0452.chunk.css",
-    "main.js": "/Portfolio_update-3_PAC/static/js/main.e0fc707c.chunk.js",
-    "main.js.map": "/Portfolio_update-3_PAC/static/js/main.e0fc707c.chunk.js.map",
+    "main.js": "/Portfolio_update-3_PAC/static/js/main.16abcfd2.chunk.js",
+    "main.js.map": "/Portfolio_update-3_PAC/static/js/main.16abcfd2.chunk.js.map",
     "runtime-main.js": "/Portfolio_update-3_PAC/static/js/runtime-main.cb00f016.js",
     "runtime-main.js.map": "/Portfolio_update-3_PAC/static/js/runtime-main.cb00f016.js.map",
     "static/js/2.99bba1be.chunk.js": "/Portfolio_update-3_PAC/static/js/2.99bba1be.chunk.js",
@@ -15,12 +15,15 @@
     "static/media/Peter-Cardillo-Profile-Pic.268a249f.jpg": "/Portfolio_update-3_PAC/static/media/Peter-Cardillo-Profile-Pic.268a249f.jpg",
     "static/media/ST-businessCard.2ea271e9.jpg": "/Portfolio_update-3_PAC/static/media/ST-businessCard.2ea271e9.jpg",
     "static/media/App.css": "/Portfolio_update-3_PAC/static/media/blueBackground.e57b33da.jpg",
-    "static/media/portfolio-burgerApp-pic-1_1367x642.fd3045e8.png": "/Portfolio_update-3_PAC/static/media/portfolio-burgerApp-pic-1_1367x642.fd3045e8.png"
+    "static/media/portfolio-burgerApp-pic-1_1367x642.fd3045e8.png": "/Portfolio_update-3_PAC/static/media/portfolio-burgerApp-pic-1_1367x642.fd3045e8.png",
+    "static/media/portfolio-employeeMgmtSystem-pic_1_1367x642.b03ce703.png": "/Portfolio_update-3_PAC/static/media/portfolio-employeeMgmtSystem-pic_1_1367x642.b03ce703.png",
+    "static/media/portfolio-noteTaker-pic_1_1367x642.30c81490.png": "/Portfolio_update-3_PAC/static/media/portfolio-noteTaker-pic_1_1367x642.30c81490.png",
+    "static/media/portfolio-weatherDashboard-pic-1_1367x642.6961e775.png": "/Portfolio_update-3_PAC/static/media/portfolio-weatherDashboard-pic-1_1367x642.6961e775.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cb00f016.js",
     "static/js/2.99bba1be.chunk.js",
     "static/css/main.c51d0452.chunk.css",
-    "static/js/main.e0fc707c.chunk.js"
+    "static/js/main.16abcfd2.chunk.js"
   ]
 }
