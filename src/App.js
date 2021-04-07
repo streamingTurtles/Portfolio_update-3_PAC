@@ -18,6 +18,9 @@ function App() {
       <Header />
       <PageTitle>
         <Route exact path="/" component={About} />
+        <Route exact path="/about" component={About} />
+        <Route exact path="/Portfolio_update-3_PAC" component={About} />
+        {/* <Route exact path="/streamingturtles.github.io/Portfolio_update-3_PAC" component={About} /> */}
         <Route exact path="/portfolio" component={Portfolio} />
         <Route exact path="/contact" component={Contact} />
       </PageTitle>

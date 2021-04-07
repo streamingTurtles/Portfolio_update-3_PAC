@@ -1,7 +1,7 @@
 import React from "react";
 
 import ST_BusinessCard  from "../assets/images/ST-businessCard.jpg";
-import  PeterCardilloProfilePic  from "../assets/images//Peter-Cardillo-Profile-Pic.jpg";
+import  PeterCardilloProfilePic  from "../assets/images/Peter-Cardillo-Profile-Pic.jpg";
 
 function AboutContent() {
     return ( 

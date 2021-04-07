@@ -12,18 +12,30 @@ function PageTitle(props) {
         changeTitleState(page);
     }, [page]);
 
-
+    
     function changeTitleState(page) {
         switch (page) {
+
             case "/":
                 setTitle("About Me")
                 break;
+
+            case "/Portfolio_update-3_PAC/":
+                setTitle("About Me")
+                break;   
+
+            case "/about":
+                setTitle("About Me")
+                break;  
+
             case "/portfolio":
-                setTitle("Portfolio")
+                setTitle("My Portfolio")
                 break;
+
             case "/contact":
-                setTitle("Contact")
+                setTitle("My Contact Info")
                 break;
+
             default:
                 setTitle("Error")
                 break;

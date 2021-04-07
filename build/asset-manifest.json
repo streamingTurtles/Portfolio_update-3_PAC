@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/Portfolio_update-3_PAC/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/Portfolio_update-3_PAC/static/js/main.aca47f53.chunk.js",
-    "main.js.map": "/Portfolio_update-3_PAC/static/js/main.aca47f53.chunk.js.map",
-    "runtime-main.js": "/Portfolio_update-3_PAC/static/js/runtime-main.ccf0b460.js",
-    "runtime-main.js.map": "/Portfolio_update-3_PAC/static/js/runtime-main.ccf0b460.js.map",
-    "static/js/2.2a0728f5.chunk.js": "/Portfolio_update-3_PAC/static/js/2.2a0728f5.chunk.js",
-    "static/js/2.2a0728f5.chunk.js.map": "/Portfolio_update-3_PAC/static/js/2.2a0728f5.chunk.js.map",
-    "static/js/3.ef329ac5.chunk.js": "/Portfolio_update-3_PAC/static/js/3.ef329ac5.chunk.js",
-    "static/js/3.ef329ac5.chunk.js.map": "/Portfolio_update-3_PAC/static/js/3.ef329ac5.chunk.js.map",
+    "main.css": "/Portfolio_update-3_PAC/static/css/main.c51d0452.chunk.css",
+    "main.js": "/Portfolio_update-3_PAC/static/js/main.24706361.chunk.js",
+    "main.js.map": "/Portfolio_update-3_PAC/static/js/main.24706361.chunk.js.map",
+    "runtime-main.js": "/Portfolio_update-3_PAC/static/js/runtime-main.cb00f016.js",
+    "runtime-main.js.map": "/Portfolio_update-3_PAC/static/js/runtime-main.cb00f016.js.map",
+    "static/js/2.99bba1be.chunk.js": "/Portfolio_update-3_PAC/static/js/2.99bba1be.chunk.js",
+    "static/js/2.99bba1be.chunk.js.map": "/Portfolio_update-3_PAC/static/js/2.99bba1be.chunk.js.map",
+    "static/js/3.f952c887.chunk.js": "/Portfolio_update-3_PAC/static/js/3.f952c887.chunk.js",
+    "static/js/3.f952c887.chunk.js.map": "/Portfolio_update-3_PAC/static/js/3.f952c887.chunk.js.map",
     "index.html": "/Portfolio_update-3_PAC/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/Portfolio_update-3_PAC/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.2a0728f5.chunk.js.LICENSE.txt": "/Portfolio_update-3_PAC/static/js/2.2a0728f5.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Portfolio_update-3_PAC/static/media/logo.6ce24c58.svg"
+    "static/css/main.c51d0452.chunk.css.map": "/Portfolio_update-3_PAC/static/css/main.c51d0452.chunk.css.map",
+    "static/js/2.99bba1be.chunk.js.LICENSE.txt": "/Portfolio_update-3_PAC/static/js/2.99bba1be.chunk.js.LICENSE.txt",
+    "static/media/Peter-Cardillo-Profile-Pic.268a249f.jpg": "/Portfolio_update-3_PAC/static/media/Peter-Cardillo-Profile-Pic.268a249f.jpg",
+    "static/media/ST-businessCard.2ea271e9.jpg": "/Portfolio_update-3_PAC/static/media/ST-businessCard.2ea271e9.jpg",
+    "static/media/App.css": "/Portfolio_update-3_PAC/static/media/blueBackground.e57b33da.jpg",
+    "static/media/portfolio-burgerApp-pic-1_1367x642.fd3045e8.png": "/Portfolio_update-3_PAC/static/media/portfolio-burgerApp-pic-1_1367x642.fd3045e8.png",
+    "static/media/portfolio-employeeMgmtSystem-pic_1_1367x642.b03ce703.png": "/Portfolio_update-3_PAC/static/media/portfolio-employeeMgmtSystem-pic_1_1367x642.b03ce703.png",
+    "static/media/portfolio-noteTaker-pic_1_1367x642.30c81490.png": "/Portfolio_update-3_PAC/static/media/portfolio-noteTaker-pic_1_1367x642.30c81490.png",
+    "static/media/portfolio-weatherDashboard-pic-1_1367x642.6961e775.png": "/Portfolio_update-3_PAC/static/media/portfolio-weatherDashboard-pic-1_1367x642.6961e775.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ccf0b460.js",
-    "static/js/2.2a0728f5.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.aca47f53.chunk.js"
+    "static/js/runtime-main.cb00f016.js",
+    "static/js/2.99bba1be.chunk.js",
+    "static/css/main.c51d0452.chunk.css",
+    "static/js/main.24706361.chunk.js"
   ]
 }
