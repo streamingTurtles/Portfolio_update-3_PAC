@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio_update-3_PAC/static/css/main.c51d0452.chunk.css",
-    "main.js": "/Portfolio_update-3_PAC/static/js/main.e926e79e.chunk.js",
-    "main.js.map": "/Portfolio_update-3_PAC/static/js/main.e926e79e.chunk.js.map",
+    "main.js": "/Portfolio_update-3_PAC/static/js/main.cc6ecd55.chunk.js",
+    "main.js.map": "/Portfolio_update-3_PAC/static/js/main.cc6ecd55.chunk.js.map",
     "runtime-main.js": "/Portfolio_update-3_PAC/static/js/runtime-main.cb00f016.js",
     "runtime-main.js.map": "/Portfolio_update-3_PAC/static/js/runtime-main.cb00f016.js.map",
     "static/js/2.99bba1be.chunk.js": "/Portfolio_update-3_PAC/static/js/2.99bba1be.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.cb00f016.js",
     "static/js/2.99bba1be.chunk.js",
     "static/css/main.c51d0452.chunk.css",
-    "static/js/main.e926e79e.chunk.js"
+    "static/js/main.cc6ecd55.chunk.js"
   ]
 }
