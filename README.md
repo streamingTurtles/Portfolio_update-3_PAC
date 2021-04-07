@@ -3,7 +3,7 @@
   ## Table of Contents:
   - [Github Repo Link](#github-repo-link)
   - [Github Information](#github-information)
-  - [GitHub hosted URL link of my Portfolio](https://streamingturtles.github.io/Portfolio_update-3_PAC/)
+  - [GitHub Pages hosted URL link of my Portfolio](https://streamingturtles.github.io/Portfolio_update-3_PAC/)
   - [my-email-for-questions-and-information](#my-email-for-questions-and-information)
 
 
