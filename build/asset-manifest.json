@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio_update-3_PAC/static/css/main.c51d0452.chunk.css",
-    "main.js": "/Portfolio_update-3_PAC/static/js/main.01282fd6.chunk.js",
-    "main.js.map": "/Portfolio_update-3_PAC/static/js/main.01282fd6.chunk.js.map",
+    "main.js": "/Portfolio_update-3_PAC/static/js/main.99cf90f5.chunk.js",
+    "main.js.map": "/Portfolio_update-3_PAC/static/js/main.99cf90f5.chunk.js.map",
     "runtime-main.js": "/Portfolio_update-3_PAC/static/js/runtime-main.8ea0d82d.js",
     "runtime-main.js.map": "/Portfolio_update-3_PAC/static/js/runtime-main.8ea0d82d.js.map",
     "static/js/2.44925542.chunk.js": "/Portfolio_update-3_PAC/static/js/2.44925542.chunk.js",
@@ -15,6 +15,9 @@
     "static/media/Peter-Cardillo-Profile-Pic.268a249f.jpg": "/Portfolio_update-3_PAC/static/media/Peter-Cardillo-Profile-Pic.268a249f.jpg",
     "static/media/ST-businessCard.2ea271e9.jpg": "/Portfolio_update-3_PAC/static/media/ST-businessCard.2ea271e9.jpg",
     "static/media/App.css": "/Portfolio_update-3_PAC/static/media/blueBackground.e57b33da.jpg",
+    "static/media/portfolio-NewProj-budget-Tracker-pic-1.092316c1.png": "/Portfolio_update-3_PAC/static/media/portfolio-NewProj-budget-Tracker-pic-1.092316c1.png",
+    "static/media/portfolio-NewProj-employee-directory-pic-1.4a70c245.png": "/Portfolio_update-3_PAC/static/media/portfolio-NewProj-employee-directory-pic-1.4a70c245.png",
+    "static/media/portfolio-NewProj-fitnessTracker-pic-4.c908e06c.png": "/Portfolio_update-3_PAC/static/media/portfolio-NewProj-fitnessTracker-pic-4.c908e06c.png",
     "static/media/portfolio-burgerApp-pic-1_1367x642.fd3045e8.png": "/Portfolio_update-3_PAC/static/media/portfolio-burgerApp-pic-1_1367x642.fd3045e8.png",
     "static/media/portfolio-employeeMgmtSystem-pic_1_1367x642.b03ce703.png": "/Portfolio_update-3_PAC/static/media/portfolio-employeeMgmtSystem-pic_1_1367x642.b03ce703.png",
     "static/media/portfolio-noteTaker-pic_1_1367x642.30c81490.png": "/Portfolio_update-3_PAC/static/media/portfolio-noteTaker-pic_1_1367x642.30c81490.png",
@@ -24,6 +27,6 @@
     "static/js/runtime-main.8ea0d82d.js",
     "static/js/2.44925542.chunk.js",
     "static/css/main.c51d0452.chunk.css",
-    "static/js/main.01282fd6.chunk.js"
+    "static/js/main.99cf90f5.chunk.js"
   ]
 }

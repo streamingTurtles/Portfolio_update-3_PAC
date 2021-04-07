@@ -5,6 +5,9 @@ import PortfolioPgBurgerApp from "../../components/PortfolioPgBurgerApp";
 import PortfolioPgNoteTaker from "../../components/PortfolioPgNoteTaker";
 import PortfolioPgEmpMgmtSys from "../../components/PortfolioPgEmpMgmt";
 import PortfolioPgWeatherDash from "../../components/PortfolioPgWeatherDash";
+import PortfolioPgEmpDir from "../../components/PortfolioPgEmpDir";
+import PortfolioPgBudgetTrk from "../../components/PortfolioPgBudgetTrk"; 
+import PortfolioPgFitnessTrk from "../../components/PortfolioPgFitnessTrk"; 
 
 function Portfolio() {
     return (
@@ -12,11 +15,14 @@ function Portfolio() {
           
           <RowContainer>
 
-             
+            <PortfolioPgEmpDir /> 
+            <PortfolioPgBudgetTrk />
+            <PortfolioPgFitnessTrk />
             <PortfolioPgBurgerApp />
             <PortfolioPgNoteTaker />
             <PortfolioPgEmpMgmtSys />
             <PortfolioPgWeatherDash />
+            
 
 
 

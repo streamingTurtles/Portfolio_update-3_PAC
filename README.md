@@ -27,12 +27,7 @@
   ## Contribution Guidelines:
   - I made this, PAC with Streaming Turtles, LLC
 
-  &nbsp;
-  - - -
-  ## Testing Instructions:
-  - Usage of the app inherently tests itself for exihibiting the MVC design pattern approach with incorporating the ORM (object relational mapping) technique as well.
-
-
+  
 
   &nbsp;
   - - -
