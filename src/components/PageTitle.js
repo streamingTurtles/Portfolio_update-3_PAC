@@ -20,10 +20,21 @@ function PageTitle(props) {
                 setTitle("About Me")
                 break;
 
-            case "/Portfolio_update-3_PAC/":
+            case "/Portfolio_update-3_PAC":
                 setTitle("About Me")
                 break;   
 
+            case "/Portfolio_update-3_PAC/":
+                setTitle("About Me")
+                break;     
+            // be sure not to include for both cases with / and / without after the route 
+            // or the error will happen
+            // don't do:  /Portfolio_update-3_PAC/
+            // do:        /Portfolio_update-3_PAC
+            case "/localhost:3000/Portfolio_update-3_PAC":
+                setTitle("About Me")
+                break; 
+                
             case "/about":
                 setTitle("About Me")
                 break;  
